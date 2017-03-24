@@ -13,6 +13,7 @@
 		31AA76BE1E8579EB00C4E00D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31AA76BD1E8579EB00C4E00D /* Assets.xcassets */; };
 		31AA76C11E8579EB00C4E00D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31AA76BF1E8579EB00C4E00D /* LaunchScreen.storyboard */; };
 		31AA76C91E85BC5700C4E00D /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 31AA76C81E85BC5700C4E00D /* Minecraft.ttf */; };
+		31AA76CB1E85BF6700C4E00D /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 31AA76CA1E85BF6700C4E00D /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		31AA76C01E8579EB00C4E00D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		31AA76C21E8579EB00C4E00D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		31AA76C81E85BC5700C4E00D /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
+		31AA76CA1E85BF6700C4E00D /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		31AA76B51E8579EB00C4E00D /* RetroCalculatorJLSC */ = {
 			isa = PBXGroup;
 			children = (
+				31AA76CA1E85BF6700C4E00D /* btn.wav */,
 				31AA76C81E85BC5700C4E00D /* Minecraft.ttf */,
 				31AA76B61E8579EB00C4E00D /* AppDelegate.swift */,
 				31AA76B81E8579EB00C4E00D /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31AA76CB1E85BF6700C4E00D /* btn.wav in Resources */,
 				31AA76C11E8579EB00C4E00D /* LaunchScreen.storyboard in Resources */,
 				31AA76BE1E8579EB00C4E00D /* Assets.xcassets in Resources */,
 				31AA76C91E85BC5700C4E00D /* Minecraft.ttf in Resources */,
